@@ -58,7 +58,7 @@ Protegeremos nuestro servidor expuesto a internet.
 *   Python 3.10 o superior.
 *   Conocimientos básicos de Python y terminal.
 *   Una cuenta de GitHub (para el despliegue).
-*   Una cuenta de DigitalOcean (para la Parte 3).
+*   Una cuenta de DigitalOcean (para la Parte 3). Si todavía no tienes cuenta, regístrate con este link y recibirás un crédito de 200$ [Regístrate y consigue tu bono de bienvenida](https://m.do.co/c/eddc62174250)
 
 ¡Empecemos con la [Parte 1](guide/TUTORIAL_PART_1_SETUP_AND_BASICS.md)!
 
